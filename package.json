@@ -1,0 +1,11 @@
+{
+  "name": "fetch-body",
+  "version": "1.0.0",
+  "description": "Fetch body.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "zhaoyao91 <zhaoyao91@163.com>",
+  "license": "MIT"
+}
